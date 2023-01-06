@@ -10,9 +10,11 @@
 
 <body>
     <h1>All Campgrounds!</h1>
+    <button><a href="/">Back to home</a></button>
     <div>
-        <a href='/campgrounds/new'>Add campground</a>
+        <button><a href='/campgrounds/new'>Add campground</a></button>
     </div>
+
     <ul>
         <% for(let campground of campgrounds) { %>
             <li>
@@ -22,6 +24,7 @@
             </li>
             <% } %>
     </ul>
+    <button><a href="/">Back to home</a></button>
 </body>
 
 </html>

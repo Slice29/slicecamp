@@ -5,8 +5,8 @@
 This is a project built alongside this Udemy Course: https://www.udemy.com/course/the-web-developer-bootcamp/
 
 The SliceCamp name is an adaptation of YelpCamp, the project developed in the later part of the Course.
-After an extensive introduction into basic web Technologies (HTML,CSS,JS) the teacher presents the development process of a complex web application. 
-The App presented in the course is a Yelp-like service for rating campgrounds.
+After an extensive introduction into basic web Technologies (HTML,CSS,JS), I started the development of this complex web application.
+The App a Yelp-like service for rating camping sites.
 
 ## The Development Stack
 

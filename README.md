@@ -27,7 +27,7 @@ Features that are implemented:
 
 however the project is put on hold temporarily.
 
-The course also goes into:
+Other features that I plan on implementing:
 * Middleware
 * Error Handling
 * Cookies
@@ -35,8 +35,6 @@ The course also goes into:
 * Image Uploads
 * Cluster Maps
 * Deploying the project
-
-and many more which I plan on implementing some time in the future.
 
 ## How to use the project
 
